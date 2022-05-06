@@ -2,7 +2,9 @@
 #### By Edbert Aksama
 --- 
 ### Introduction
-The [web map](https://eaks2.github.io/Lab4_TileGeneration/) examines the puget sound area, specifically the city of Seattle and its surrounding area. In order to ensure that the web map was able to be uploaded to github and to have a fast and proper load, each tile set has a minimum zoom level of 1 and a maximum zoom level of 11.
+The [web map](https://eaks2.github.io/Lab4_TileGeneration/) examines the puget sound area, specifically the city of Seattle and its surrounding area. In order to ensure that the web map was able to be uploaded to github and to have a fast and proper load, each tile set has a minimum zoom level of 1 and a maximum zoom level of 11. 
+
+URL to repository : [Link](https://github.com/Eaks2/Lab4_TileGeneration)
 
 ## Layers
 ---
